@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajdwip
-- 👀 I’m interested in Statistical Methods and analytics
-- 🌱 I’m currently learning Data Science
+- 👀 Done Post Graduation Diploma in Statistical Methods & Analytics
+- 🌱 I’m Data Analyst fresher
 - 💞️ I’m looking to collaborate on some projects relevant to my concerned subjects
 - 📫 Email : rajdwipbiswas16@gmail.com
 
