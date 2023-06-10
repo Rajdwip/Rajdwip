@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajdwip
-- 👀 Done Post Graduation Diploma in Statistical Methods & Analytics
+- 👀 Post Graduation Diploma in Statistical Methods & Analytics @ INDIAN STATISTICAL INSTITUTE
 - 🌱 I’m Data Analyst fresher
 - 💞️ I’m looking to collaborate on some projects relevant to my concerned subjects
 - 📫 Email : rajdwipbiswas16@gmail.com
