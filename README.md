@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajdwip
 - 👀 Post Graduation Diploma in Statistical Methods & Analytics @ INDIAN STATISTICAL INSTITUTE
-- 🌱 I’m Data Analyst fresher
+- 🌱 I’m Strategy Analyst Cum AI Generalist
 - 💞️ I’m looking to collaborate on some projects relevant to my concerned subjects
 - 📫 Email : rajdwipbiswas16@gmail.com
 
